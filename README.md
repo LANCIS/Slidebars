@@ -1,5 +1,10 @@
 # Slidebars
 
+Note: Slidebars is forked here only to add package.json file so that it can be installed using npm. 
+
+
+```npm install https://github.com/LANCIS/Slidebars.git```
+
 Slidebars is a jQuery framework for quickly and easily implementing app style off-canvas menus and sidebars into your website.
 
 See the [Slidebars website](http://plugins.adchsm.me/slidebars/) for information on getting started, usage documentation and compatibility tables.
